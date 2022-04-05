@@ -1,2 +1,1 @@
-# Covide19-DetectorWebApp
-https://covid19-detector.netlify.app/
+# Covid-19-Detector
